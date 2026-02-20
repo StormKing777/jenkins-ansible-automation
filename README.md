@@ -10,6 +10,11 @@ This project demonstrates **Continuous Integration and Continuous Deployment (CI
 
 ---
 
+## Video Demonstration
+* **[YouTube: Automating Deployment with Jenkins & Ansible](LINK_TO_YOUR_VIDEO)**
+
+---
+
 ## 🛠️ Implementation Steps
 1. **Jenkins Setup:** Installed Jenkins and created a "Pipeline" that talks to my GitHub.
 2. **The "Playbook":** Wrote an **Ansible Playbook** that tells the server exactly how to set itself up.
